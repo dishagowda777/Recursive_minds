@@ -28,8 +28,3 @@
 ## 💡 Why GouAI?  
 Indian indigenous cows are at risk due to urbanization, crossbreeding, and lack of awareness. GouAI provides a **tech-driven, scalable** solution to **preserve native breeds, empower farmers, and promote sustainability**.  
 
-## 🤝 Get Involved  
-💬 **Join the discussion** | 🔗 **Contribute to the project** | 🌱 **Support cattle conservation**  
-
----
-

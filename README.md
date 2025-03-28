@@ -33,4 +33,3 @@ Indian indigenous cows are at risk due to urbanization, crossbreeding, and lack 
 
 ---
 
-🔗 **Stay Connected:** [GitHub Repo](#) | [Website](#) | [Contact Us](#)  
